@@ -1,5 +1,5 @@
 # AC Araujo
-### _Current Position - Full Professor in Mechanical Engineering / INSA Toulouse
+### Full Professor in Mechanical Engineering / INSA Toulouse
 
 #### Summary: 
 texto 
@@ -31,4 +31,5 @@ Diego
 ## 📞 Contact
 
 | **Name**   | A.C. Araujo | 
+
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/annacarlaaraujo/" target="_blank">Visit Page</a> | 
