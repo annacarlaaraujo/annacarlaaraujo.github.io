@@ -2,16 +2,17 @@
 layout: cv
 title: Anna Carla ARAUJO cv
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Anna Carla Araujo
+Mechanical Engineering and Manufacturing, Full Professor, INSA Toulouse.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="araujo@">araujo@insa</a>
+| <a href="http://lattes.cnpq.br/4198469560134761">CV Lattes</a>
 </div>
 
+https://orcid.org/0000-0002-0486-0687 
 
-## Currently
+## IN EDITION (template)
 
 Standing on the shoulders of giants
 
