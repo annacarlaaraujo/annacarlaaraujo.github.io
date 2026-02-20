@@ -9,7 +9,7 @@ title: Anna Carla Araujo
 :contentReference[oaicite:2]{index=2}  
 
 📍 Toulouse, France  
-📧 anna.araujo@insa-toulouse.fr  
+📧 araujo@insa-toulouse.fr  
 🔗 [ORCID](https://orcid.org/0000-0002-0486-0687)  
 🔗 [CV Lattes](http://lattes.cnpq.br/4198469560134761)  
 
