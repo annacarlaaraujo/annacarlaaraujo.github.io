@@ -6,6 +6,8 @@ title: Anna Carla Araujo
 # Anna Carla Araujo  
 **Full Professor – Mechanical Engineering**  
 
+<img src="media/ACAraujo.jpeg" width="180" style="border-radius: 50%;" />
+
 📍 Toulouse, France  
 📧 araujo@insa-toulouse.fr  
 🔗 [ORCID](https://orcid.org/0000-0002-0486-0687)  
